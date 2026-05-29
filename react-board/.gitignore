@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# IDE(개발도구) 설정 파일 숨기기
+.vscode/
+.idea/
+*.code-workspace
+
+# 운영체제 생성 파일 (맥북 전용 필수!)
+.DS_Store
+Thumbs.db
+
+# 빌드 결과물 및 환경변수
+build/
+dist/
+.env

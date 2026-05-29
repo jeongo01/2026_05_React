@@ -1,0 +1,14 @@
+post-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+post-table td,
+post-table th {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+post-table th {
+    background-color: #f3f3f3;
+}

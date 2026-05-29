@@ -1,0 +1,15 @@
+form-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+form-container input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+form-container button {
+    padding: 8px 14px;
+    cursor: pointer;
+}

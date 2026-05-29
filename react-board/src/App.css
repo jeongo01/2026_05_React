@@ -1,0 +1,21 @@
+.app-container {
+  width: 700;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align:center;
+}
+
+.app {
+  width: 700px;
+  margin: 50px auto;
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+
+.dark {
+  background-color: #222;
+  color: white;
+}
